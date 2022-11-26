@@ -5,10 +5,4 @@ if [ $a -eq 5 ]
 then
 	echo "number is equal to 5"
 fi
-echo "********************************************7"
 
-Hello 
-Good Evening
-Karnataka
-
-Hello
