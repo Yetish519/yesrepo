@@ -1,7 +1,7 @@
 #!/bin/bash
-apt update
-apt install deafult-jdk
-apt install maven
+sudo apt update
+sudo apt install deafult-jdk
+sudo apt install maven
 cd /opt
 wget https://downloads.apache.org/tomcat/tomcat-10/v10.0.27/bin/apache-tomcat-10.0.27.tar.gz
 tar -xzvf apache-tomcat-10.0.27.tar.gz 
